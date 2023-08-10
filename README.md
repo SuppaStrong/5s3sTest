@@ -1,16 +1,10 @@
 # team_5s3s
 
-A new Flutter project.
+- fetch data from https://www.themealdb.com/api.php
+- user can click into meal card to add them to cart
+- empty cart button , increase , decrease deletebutton is availabie , the rest of them will do later if you want
+- Many thanks for your review ,  
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
